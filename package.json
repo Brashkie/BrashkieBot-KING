@@ -17,16 +17,16 @@
 "test": "node test.js",
 "test2": "nodemon index.js" },
     
-"homepage": "https://github.com/Brashkie/BrashkieBot-Hepein",
+"homepage": "https://github.com/Brashkie/BrashkieBot-KING",
 "author": {
-"name": "KatashiFukushima" }, 
+"name": "Brashkie Dios" }, 
     
 "repository": {
 "type": "git",
-"url": "https://github.com/Brashkie/BrashkieBot-Hepein.git" },
+"url": "https://github.com/Brashkie/BrashkieBot-KING.git" },
 
 "bugs": {
-"url": "https://github.com/Brashkie/BrashkieBot-Hepein/issues" },
+"url": "https://github.com/Brashkie/BrashkieBot-KING/issues" },
 "license": "GPL-3.0-or-later",
 "dependencies": {
 "@whiskeysockets/baileys": "^6.5.0",
