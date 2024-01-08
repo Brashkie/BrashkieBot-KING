@@ -36,5 +36,5 @@
 termux-setup-storage
 ```
 ```bash
-apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/Brashkie/BrashkieBot-Hepein/master/Brashkie.sh | bash
+apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/Brashkie/BrashkieBot-KING/master/KING.sh | bash
 ```
